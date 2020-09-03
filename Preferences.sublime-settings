@@ -1,0 +1,15 @@
+{
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_size": 8,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "gruvbox.sublime-theme",
+	"rulers": [80],
+	"bold_folder_labels": false,
+	"draw_minimap_border": false,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"margin": -1
+}
