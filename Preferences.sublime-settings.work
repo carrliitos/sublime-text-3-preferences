@@ -66,3 +66,45 @@
 	],
 	"theme": "gruvbox.sublime-theme",
 }
+
+// settings 3
+// Settings 1
+{
+	// GRUVBOX THEME
+	"gruvbox_accent_aqua": false,
+	"gruvbox_accent_blue": false,
+	"gruvbox_accent_green": false,
+	"gruvbox_accent_orange": true,
+	"gruvbox_accent_purple": false,
+	"gruvbox_accent_red": false,
+	"gruvbox_accent_yellow": false,
+	"gruvbox_sidebar_heading_bold": true,
+	"gruvbox_sidebar_label_bold": true,
+	"match_brackets": false,
+	"match_brackets_angle": false,
+	"match_brackets_braces": false,
+	"match_brackets_content": false,
+	"match_brackets_square": false,
+	"match_tags": false,
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_size": 8,
+	"font_face": "Fira Code",
+	"font_options": ["subpixel_antialias"],
+	"ignored_packages": ["Vintage"],
+	"theme": "gruvbox.sublime-theme",
+	// Everything else
+	"rulers": [80],
+	"bold_folder_labels": false,
+	"draw_minimap_border": true,
+	"line_padding_top": 1,
+	"line_padding_bottom": 1,
+	"margin": -1,
+	"word_wrap": "false",
+	"always_show_minimap_viewport": true,
+	"caret_style": "blink",
+	"show_encoding": true,
+	"show_line_endings": true,
+	"remember_workspace": false,
+	"translate_tabs_to_spaces": true
+}
+
