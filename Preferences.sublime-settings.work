@@ -106,4 +106,50 @@
 	"remember_workspace": false,
 	"translate_tabs_to_spaces": true
 }
+// settings 4
+
+{
+	"bold_folder_labels": false,
+	"color_scheme": "gruvbox (Dark) (Hard) NDC.sublime-color-scheme",
+	"draw_minimap_border": true,
+	"font_size": 8,
+	"gruvbox_accent_aqua": false,
+	"gruvbox_accent_blue": false,
+	"gruvbox_accent_green": false,
+	"gruvbox_accent_orange": true,
+	"gruvbox_accent_purple": false,
+	"gruvbox_accent_red": false,
+	"gruvbox_accent_yellow": false,
+	"gruvbox_sidebar_heading_bold": true,
+	"gruvbox_sidebar_label_bold": true,
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"margin": -1,
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"match_brackets_braces": true,
+	"match_brackets_content": true,
+	"match_brackets_square": true,
+	"match_tags": true,
+	"rulers":
+	[
+		120
+	],
+	"theme": "gruvbox.sublime-theme",
+	"font_face": "Fira Code",
+	"font_options": ["dlig"],
+	"word_wrap": "false",
+	"update_check": false,
+	"index_files": true,
+	"caret_style": "smooth",
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
+	"show_encoding": true,
+	"show_line_endings": true,
+}
+
 
